@@ -1,0 +1,18 @@
+{
+  "name": "google-signin",
+  "dependencies": {
+    "polymer": "Polymer/polymer#master",
+    "google-apis": "PolymerLabs/google-apis"
+  },
+  "homepage": "https://github.com/GoogleWebComponents/google-signin",
+  "_release": "f92648cf7d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "f92648cf7d27c693c5d4bf5de378d7836f7fd54d"
+  },
+  "_source": "git://github.com/GoogleWebComponents/google-signin.git",
+  "_target": "master",
+  "_originalSource": "GoogleWebComponents/google-signin",
+  "_direct": true
+}
